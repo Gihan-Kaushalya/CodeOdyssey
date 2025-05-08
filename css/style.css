@@ -1,0 +1,64 @@
+<style>p {
+    color: white;
+    text-align: justify;
+}
+
+h1 {
+    background-color: yellow;
+    color: maroon;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+    
+
+
+}
+
+#sample-id-selector{
+    background-color: blue;
+
+}
+
+.h1{
+    background-color: antiquewhite;
+    color:maroon;
+}
+
+h2 {
+    color:yellow;
+    text-align: center;
+}
+
+h3 {
+    color:yellow;
+
+}
+
+body {
+    color: white;
+    background-image: url(../img/2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+hr{
+    
+    border-color: maroon;;
+}
+
+legend{
+    text-align: justify;
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.legend{
+
+    background-color: aqua;
+    text-align: justify;
+    color: rgb(200, 16, 16);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+</style>
